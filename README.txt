@@ -1,3 +1,3 @@
 Hello world
 I am vivek Kalal
-Creater of Repo
+Creater of Rep
